@@ -1,0 +1,4 @@
+This week, I used AI to work on certain problems for week 1. Here is the link showcasing what I used it for and what problems I struggled with the most: https://chatgpt.com/c/68c77310-9aac-8328-89b2-9cc01928fd53
+I did have to use AI for some of the entire problems because I had never done them before and did not know how to set them up. For example, I struggled a lot on problem 15 because I've never used .find() before. A lot of the problems I copy and pasted the whole thing because I got close to completing the problem, but I couldn't figure out which line was causing me problems so I looked to see how ChatGPT did it. I mainly used it for debugging and to help me solve a couple. 
+I generally try not to use AI, as I would like my work to be my own but sometimes I can't find the answers I need online and have to use AI. 
+
